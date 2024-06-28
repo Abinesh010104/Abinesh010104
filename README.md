@@ -1,5 +1,8 @@
+#
 <div align="center">
+  
   <span>‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎</span>
+  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ff1493&size=36&lines=‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎+Hey👋!+It's+Abinesh!)](https://git.io/typing-svg)
 </div>
 Welcome to my GitHub profile! I'm passionate about learning new things and exploring innovative solutions to challenges. I believe in finding simplicity in complexity and strive to tackle problems with elegant and straightforward solutions.
