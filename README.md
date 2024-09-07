@@ -1,11 +1,10 @@
-#
+
 <div align="center">
   
   <span>‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎</span>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=fffff&size=36&lines=‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎+Hey👋!+It's+Abinesh+R!)](https://git.io/typing-svg)
 </div>
-Welcome to my GitHub profile! I'm passionate about learning new things and exploring innovative solutions to challenges. I believe in finding simplicity in complexity and strive to tackle problems with elegant and straightforward solutions.
 # 💫 About Me:
 👋 Hey there! I'm a passionate problem solver and creative thinker, always on the lookout for exciting challenges to tackle. I love diving into new technologies and finding innovative ways to solve complex problems. My curiosity drives me to constantly learn, adapt, and experiment with fresh ideas. Let’s connect, create, and build something awesome together!
 
